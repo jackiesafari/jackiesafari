@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m @jackiesafari
-- 👀 I’m interested in dev workshops to become a devrel myself 
-- 🌱 I’m currently learning solidity through the Miami Growic solidity course
-- 💞️ I’m looking for devs that can assist me in my project XKeeperDao. I'm in the process of decentralizing scientific articles and using the metaverse in the process.
+- 👀 I’m interested in dev workshops and attending Hackathons 
+- 🌱 I’m currently part of DevRel Uni to improve my documentation process and community building
+- 💞️ I’m also part of SheFi because I love learning about blockchain technology. 
 - 📫 How to reach me telegram & twitter @jackiesafari
 
 <!---
