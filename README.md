@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @jackiesafari
 - 👀 I’m interested in dev workshops and attending Hackathons 
-- 🌱 I’m currently part of DevRel Uni to improve my documentation process and community building
+- 🌱 I’m currently part of the captain program at DevRel Uni and take charge of Newsletter.
 - 💞️ I’m also part of SheFi because I love learning about blockchain technology. 
 - 📫 How to reach me telegram & twitter @jackiesafari
 
