@@ -1,6 +1,5 @@
 - 👋 Hi there, I’m @jackiesafari
 - 👀 I’m interested in dev workshops and attending Hackathons 
-- 🌱 I’m currently part of the captain program at DevRel Uni 
 - 📫 How to reach me telegram & twitter @jackiesafari
 
 <!---
